@@ -1,0 +1,680 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"tho",
+				"throws"
+			],
+			[
+				"ca",
+				"catch"
+			],
+			[
+				"nu",
+				"NullPointerException"
+			],
+			[
+				"Tr",
+				"Throwable"
+			],
+			[
+				"pri",
+				"println"
+			],
+			[
+				"S",
+				"System"
+			],
+			[
+				"Roo",
+				"RoomException"
+			],
+			[
+				"tr",
+				"throw"
+			],
+			[
+				"th",
+				"throw"
+			],
+			[
+				"n",
+				"NullPointerException"
+			],
+			[
+				"Th",
+				"Throwable"
+			],
+			[
+				"Ro",
+				"RoomException"
+			],
+			[
+				"Nu",
+				"NullPointerException"
+			],
+			[
+				"E",
+				"Exception"
+			],
+			[
+				"in",
+				"interface"
+			],
+			[
+				"pa",
+				"package"
+			],
+			[
+				"Do",
+				"DonutFood"
+			],
+			[
+				"fo",
+				"food"
+			],
+			[
+				"tim",
+				"timeUntilHunger"
+			],
+			[
+				"la",
+				"lastMealTime"
+			],
+			[
+				"spa",
+				"spaceObject"
+			],
+			[
+				"time",
+				"timeToLook"
+			],
+			[
+				"o",
+				"orbit"
+			],
+			[
+				"Get",
+				"GetVelosity"
+			],
+			[
+				"str",
+				"str"
+			],
+			[
+				"p",
+				"private"
+			],
+			[
+				"A",
+				"AddPasseger"
+			],
+			[
+				"pas",
+				"passegers1"
+			],
+			[
+				"Ste",
+				"SetTimeUntilHunger"
+			],
+			[
+				"Set",
+				"SetTimeUntilHunger"
+			],
+			[
+				"do",
+				"double"
+			],
+			[
+				"r",
+				"rocket"
+			],
+			[
+				"v",
+				"velosity"
+			],
+			[
+				"or",
+				"orbitCenter"
+			],
+			[
+				"orb",
+				"orbitCenter"
+			],
+			[
+				"im",
+				"import"
+			],
+			[
+				"i",
+				"implements"
+			],
+			[
+				"e",
+				"extends"
+			],
+			[
+				"orbit",
+				"orbitCenter"
+			],
+			[
+				"re",
+				"return"
+			],
+			[
+				"a",
+				"abstract"
+			],
+			[
+				"an",
+				"anti_windup"
+			],
+			[
+				"R",
+				"Rcurrent_speed"
+			],
+			[
+				"L",
+				"Lcurrent_speed"
+			],
+			[
+				"c",
+				"current_speed"
+			],
+			[
+				"cu",
+				"current_speed"
+			],
+			[
+				"old",
+				"old_time"
+			],
+			[
+				"cure",
+				"current_distance"
+			],
+			[
+				"us",
+				"us2"
+			],
+			[
+				"st",
+				"static"
+			],
+			[
+				"SPE",
+				"SPECIAL_DEFENSE"
+			],
+			[
+				"AT",
+				"ATTACK"
+			],
+			[
+				"add",
+				"addAlly"
+			],
+			[
+				"T",
+				"Type"
+			],
+			[
+				"se",
+				"setMode"
+			],
+			[
+				"po",
+				"pokemon"
+			],
+			[
+				"cl",
+				"class"
+			],
+			[
+				"pu",
+				"public"
+			],
+			[
+				"P",
+				"Pokemon"
+			],
+			[
+				"na",
+				"name"
+			],
+			[
+				"s",
+				"stop_action"
+			],
+			[
+				"dis",
+				"distance"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "src/laba/rocket/SpeedException.java",
+			"settings":
+			{
+				"buffer_size": 283,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "src/laba/Main.java",
+			"settings":
+			{
+				"buffer_size": 1193,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "src/laba/rocket/Rocket.java",
+			"settings":
+			{
+				"buffer_size": 2200,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "src/laba/people/Human.java",
+			"settings":
+			{
+				"buffer_size": 1883,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 0.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/home/user/Документы/Java/Lab3-4/src/laba",
+		"/home/user/Документы/Java/Lab3-4/src/laba/people",
+		"/home/user/Документы/Java/Lab3-4/src/laba/rocket",
+		"/home/user/Документы/Java/Lab3-4/src/laba/rocket/room",
+		"/home/user/Документы/Java/Lab3-4/src/laba/space",
+		"/home/user/Документы/Java/Lab3-4/src/laba/space/objects"
+	],
+	"file_history":
+	[
+		"/home/user/Документы/Java/Lab3-4/src/laba/people/Human.java",
+		"/home/user/Документы/Java/Lab3-4/src/laba/space/objects/OrbitalObject.java",
+		"/home/user/Документы/Java/Lab3-4/src/laba/people/Dream.java",
+		"/home/user/Документы/Java/Lab3-4/src/laba/people/Fool.java",
+		"/home/user/Документы/Java/Lab3-4/src/laba/rocket/room/RoomException.java",
+		"/home/user/Документы/Java/Lab3-4/src/laba/people/Donut.java",
+		"/home/user/Документы/Java/Lab3-4/src/laba/exceptions/RoomException.java",
+		"/home/user/Документы/Java/Lab3/Start",
+		"/home/user/Документы/Java/Lab3/src/laba/space/objects/Moon.java",
+		"/home/user/Документы/Java/Lab3/src/laba/space/objects/SpaceObject.java",
+		"/home/user/Документы/Java/Lab3/src/laba/rocket/Rocket.java",
+		"/home/user/Документы/Java/Lab3/src/laba/rocket/room/Room.java",
+		"/home/user/Документы/Java/Lab3/src/laba/people/Fool.java",
+		"/home/user/Документы/Java/Lab3/src/laba/people/Human.java",
+		"/home/user/Документы/Java/Lab3/src/laba/people/Donut.java",
+		"/home/user/Документы/Java/Lab3/src/laba/Main.java",
+		"/home/user/Документы/Java/Lab3/src/laba/timeline/Timeline.java",
+		"/home/user/Документы/Java/Lab3/src/laba/space/objects/OrbitalObject.java",
+		"/home/user/Документы/Робот/Lab5/Lab_5_sqr.py",
+		"/home/user/Документы/Java/Lab3/src/laba/space/objects/Earth.java",
+		"/home/user/Документы/Робот/Lab3/P.py",
+		"/home/user/Документы/Робот/Lab4/WallCar.py",
+		"/home/user/Документы/Java/Lab3/src/laba/Main.class",
+		"/home/user/Документы/Java/Lab3/src/laba/space/objects/Earth.class",
+		"/home/user/Документы/Java/Test.java",
+		"/home/user/Документы/Java/Lab2/start",
+		"/home/user/Документы/Java/Lab2/src/PokemonLab2/Test.java",
+		"/home/user/Документы/Java/Lab3/src/laba/spaceObjects/SpaceObject.java",
+		"/home/user/Документы/Java/Lab3/src/laba/spaceObjects/Earth.java",
+		"/home/user/Документы/Java/Lab3/src/laba/spaceObjects/Moon.java",
+		"/home/user/Документы/Java/Lab3/src/laba/spaceObjects/OrbitalObject.java",
+		"/home/user/Документы/Java/Lab2/src/PokemonLab2/pokemon/Chandelure.java",
+		"/home/user/Документы/Java/Lab3/src/Laba/Main.java",
+		"/home/user/Документы/Робот/Lab4/WallCar (1).py",
+		"/home/user/Документы/Java/Lab2/src/PokemonLab2/pokemon/Lileep.java",
+		"/home/user/Документы/Java/Lab2/Man",
+		"/home/user/robot/WallCar.py",
+		"/home/user/Документы/Java/Lab2/src/PokemonLab2/pokemon/Cradily.java",
+		"/home/user/Документы/Java/Lab2/src/PokemonLab2/pokemon/Lampent.java",
+		"/home/user/Документы/Робот/Lab3/Car.py",
+		"/home/user/Документы/Робот/Robot/P.py",
+		"/home/user/Документы/Java/Lab2/src/PokemonLab2/pokemon/Throh.java",
+		"/home/user/Документы/Java/Lab2/src/PokemonLab2/pokemon/Litwick.java",
+		"/home/user/Документы/Java/Lab2/src/PokemonLab2/pokemon/attack/EnergyBall.java",
+		"/home/user/Документы/Java/Lab2/src/PokemonLab2/pokemon/attack/WorkUp.java",
+		"/home/user/Документы/Java/Lab2/src/PokemonLab2/pokemon/attack/Smog.java",
+		"/home/user/Документы/Java/Lab2/src/PokemonLab2/pokemon/attack/SludgeWave.java",
+		"/home/user/Документы/Java/Lab2/src/PokemonLab2/pokemon/attack/SludgeBomb.java",
+		"/home/user/Документы/Java/Lab2/src/PokemonLab2/pokemon/attack/SeismicToss.java",
+		"/home/user/Документы/Java/Lab2/src/PokemonLab2/pokemon/attack/NightShade.java",
+		"/home/user/Документы/Java/Lab2/src/PokemonLab2/pokemon/attack/DoubleTeam.java",
+		"/home/user/Документы/Java/Lab2/src/PokemonLab2/pokemon/attack/ConfuseRay.java",
+		"/home/user/Документы/Java/Lab2/src/PokemonLab2/pokemon/attack/CalmMind.java",
+		"/home/user/Документы/Java/Lab2/src/PokemonLab2/pokemon/attack/BulkUp.java",
+		"/home/user/Документы/Java/Lab2/src/PokemonLab2/pokemon/attack/AncientPower.java",
+		"/home/user/Документы/Java/Lab2/src/com/Test.java",
+		"/home/user/robot/Car.py",
+		"/home/user/Документы/Java/Lab2/src/com/pokemon/Chandelure.java",
+		"/home/user/Документы/Java/Lab2/src/com/pokemon/attack/AncientPower.java",
+		"/home/user/Документы/Java/Lab2/com/pokemon/attack/SludgeBomb.java",
+		"/home/user/Документы/Java/Lab2/com/pokemon/attack/AncientPower.java",
+		"/home/user/Документы/Java/Lab2/com/pokemon/attack/EnergyBall.java",
+		"/home/user/Документы/Java/Lab2/com/pokemon/attack/SludgeWave.java",
+		"/home/user/Документы/Java/Lab2/com/pokemon/Lileep.java",
+		"/home/user/Документы/Java/Lab2/com/pokemon/Cradily.java",
+		"/home/user/Документы/Java/Lab2/com/pokemon/attack/Smog.java",
+		"/home/user/Документы/Java/Lab2/com/pokemon/attack/NightShade.java",
+		"/home/user/Документы/Java/Lab2/com/pokemon/attack/ConfuseRay.java",
+		"/home/user/Документы/Java/Lab2/com/pokemon/attack/CalmMind.java",
+		"/home/user/Документы/Java/Lab2/com/pokemon/Litwick.java",
+		"/home/user/Документы/Java/Lab2/com/pokemon/Lampent.java",
+		"/home/user/Документы/Java/Lab2/com/pokemon/Chandelure.java",
+		"/home/user/Документы/Java/Lab2/com/pokemon/attack/BulkUp.java",
+		"/home/user/Документы/Java/Lab2/com/pokemon/attack/DoubleTeam.java",
+		"/home/user/Документы/Java/Lab2/com/pokemon/attack/SeismicToss.java",
+		"/home/user/Документы/Java/Lab2/com/pokemon/attack/WorkUp.java",
+		"/home/user/Документы/Java/Lab2/com/Test.java",
+		"/home/user/Документы/Java/Lab2/untitled.java",
+		"/home/user/Документы/Java/Lab2/com/pokemon/attack/Bulk_Up.java",
+		"/home/user/robot/P.py"
+	],
+	"find":
+	{
+		"height": 23.0
+	},
+	"find_in_files":
+	{
+		"height": 118.0,
+		"where_history":
+		[
+			"",
+			"SpeedException.java",
+			"SpeedExpception.java",
+			""
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": true,
+		"find_history":
+		[
+			"SpeedException",
+			"speed",
+			"Eat(",
+			"GoTo",
+			"Add",
+			"IsHungryNow",
+			"LookAt",
+			"Seems",
+			"OrbitInfo",
+			"Increasetime",
+			"Set",
+			"Get"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"velosity",
+			"eat(",
+			"goTo",
+			"add",
+			"isHungryNow",
+			"lookAt",
+			"seems",
+			"orbitInfo",
+			"increaseTime",
+			"set",
+			"get"
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 1,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "src/laba/rocket/SpeedException.java",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 283,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								278,
+								278
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Java/Java.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 3,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "src/laba/Main.java",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1193,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								585,
+								585
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Java/Java.sublime-syntax",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "src/laba/rocket/Rocket.java",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 2200,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								367,
+								367
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Java/Java.sublime-syntax",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 2,
+					"type": "text"
+				},
+				{
+					"buffer": 3,
+					"file": "src/laba/people/Human.java",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1883,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								254,
+								254
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Java/Java.sublime-syntax",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 23.0
+	},
+	"input":
+	{
+		"height": 35.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "Lab3.sublime-project",
+	"replace":
+	{
+		"height": 42.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 211.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}

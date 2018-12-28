@@ -1,0 +1,2 @@
+javac laba/space/objects/*.java laba/rocket/*.java laba/rocket/room/*.java laba/people/*.java laba/Main.java 
+java laba.Main
